@@ -1,0 +1,15 @@
+Name= "Bro: Code"
+
+#print(Name) 
+#print(len(Name))
+#print(Name.find("r"))
+#print(Name.capitalize())
+#print(Name.upper())
+#print(Name.lower())
+#print(Name.isdigit())
+#print(Name.isalpha())
+#print(Name.count("o"))
+print(Name.replace(":"," "))
+#print(Name*4) 
+#print(Name.isupper())
+#print(Name.strip())
